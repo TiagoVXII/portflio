@@ -58,10 +58,6 @@ module.exports = {
               to: '/docs/about',
             },
             {
-              label: 'Timeline',
-              to: '/docs/timeline',
-            },
-            {
               label: 'Blog',
               to: '/blog',
             },
